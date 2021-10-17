@@ -10,6 +10,8 @@ See downloads: https://www.python.org/downloads/
 2. Extract the zip and you will get a .exe program file.
 3. Run the flexFeed.exe
 
+You can also download flexFeed.zip from Google Drive -> http://bit.ly/flexFeed
+
 <h3>That's All!!</h3>
 
 Now you have to ENTER flex credentials details!
