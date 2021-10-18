@@ -1,5 +1,7 @@
 # flexFeed - Flex Student FAST NUCES Feedback BOT/Automation
-
+<br>
+<center><img src="https://flexstudent.nu.edu.pk/Assets/demo/demo3/media/img/logo/flex-logo-blue.png" style="width:60%;"></center>
+<br>
 <strong>Before running program requirements:</strong>
 
 Python 3+ Installed!!
