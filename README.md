@@ -1,20 +1,21 @@
-# flexFeed - Flex NUCES Automated Feedback
+# flexFeed - Flex Student FAST NUCES Feedback BOT/Automation
 
 <strong>Before running program requirements:</strong>
 
 Python 3+ Installed!!
-See downloads: https://www.python.org/downloads/
+See downloads: <a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a>
 <br><br>
 <strong>How to automate Flex Feedback?</strong>
-1. Download the flexFeed.zip
+1. Download the <a href="https://github.com/theshahzaibc/flexFeed/raw/main/flexFeed.zip">flexFeed.zip</a>
 2. Extract the zip and you will get a .exe program file.
 3. Run the flexFeed.exe
 
-You can also download flexFeed.zip from Google Drive -> http://bit.ly/flexFeed
+You can also download flexFeed.zip from Google Drive -> <a href="http://bit.ly/flexFeed" target="_blank">http://bit.ly/flexFeed</a>
 
 <h3>That's All!!</h3>
 
 Now you have to ENTER flex credentials details!
+https://flexstudent.nu.edu.pk/Login
 
 <code>ROLLNO, PASSWORD and reCAPTCHA Method!!</code>
 
@@ -22,7 +23,8 @@ Now you have to ENTER flex credentials details!
 1. Manually
    <br> You have to fill and solve captcha by hand and then press ENTER to continue next tasks!
 3. 2captcha API Key
-  <br>You will need to BUY Captcha solving API by 2captcha and you can get it here: <br> https://2captcha.com?from=10626707
+  <br>You will need to BUY Captcha solving API by 2captcha and you can get it here: <br> <a href="https://2captcha.com?from=10626707" target="_blank">https://2captcha.com?from=10626707</a>
   
-  
-THANK YOU!
+ READ MORE ABOUT <a href="https://github.com/theshahzaibc/flexFeed/blob/main/LICENSE">LICENCE</a>
+ <br>
+ THANK YOU!
