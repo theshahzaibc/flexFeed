@@ -2,7 +2,7 @@
 <br>
 <center><img src="https://flexstudent.nu.edu.pk/Assets/demo/demo3/media/img/logo/flex-logo-blue.png" style="width:60%;"></center>
 <br>
-## LET ME KNOW YOUR THOUGHTS! <a href="https://bit.ly/flexFeedSurvey">GIVE FEEDBACK</a>
+<h3>LET ME KNOW YOUR THOUGHTS! <a href="https://bit.ly/flexFeedSurvey">GIVE FEEDBACK</a></h3>
 <br>
 <strong>Before running program requirements:</strong>
 
