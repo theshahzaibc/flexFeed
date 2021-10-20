@@ -28,7 +28,9 @@ https://flexstudent.nu.edu.pk/Login
    <br> You have to fill and solve captcha by hand and then press ENTER to continue next tasks!
 3. 2captcha API Key
   <br>You will need to BUY Captcha solving API by 2captcha and you can get it here: <br> <a href="https://2captcha.com?from=10626707" target="_blank">https://2captcha.com?from=10626707</a>
-  
+ 
+ <strong>COOL UPDATES COMING SOON!<strong>
+ 
  READ MORE ABOUT <a href="https://github.com/theshahzaibc/flexFeed/blob/main/LICENSE">LICENCE</a>
  <br>
  THANK YOU!
