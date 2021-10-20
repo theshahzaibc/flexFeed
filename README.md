@@ -1,6 +1,6 @@
 # flexFeed - Flex Student FAST NUCES Feedback BOT/Automation
 <br>
-<center><img src="https://flexstudent.nu.edu.pk/Assets/demo/demo3/media/img/logo/flex-logo-blue.png" style="width:60%;"></center>
+<center><img src="https://i.imgur.com/iuqkBYS.png" style="width:60%;"></center>
 <br>
 <h3>LET ME KNOW YOUR THOUGHTS! <a href="https://bit.ly/flexFeedSurvey">GIVE FEEDBACK</a></h3>
 <br>
